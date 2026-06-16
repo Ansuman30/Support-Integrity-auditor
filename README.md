@@ -32,4 +32,4 @@ The following table justifies the signal fusion strategy used to generate pseudo
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the dashboard: `streamlit run app.py`
 
-Additionally added streamlit url to view
+Additionally added streamlit url to view :  https://support-integrity-auditor-sebnvsqeryx7qhcusr7phm.streamlit.app/
